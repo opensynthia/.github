@@ -8,7 +8,7 @@ High-performance, accessible infrastructure is developed to support the broader 
 ## 🚀 Flagship Projects
 
 ### [GGIR Explorer](link-to-repo)
-A high-performance, browser-based web dashboard designed for the visualization and exploratory analysis of large-scale accelerometry data. 
+Browser-based web dashboard designed for the visualization and exploratory analysis of large-scale accelerometry data. 
 * **Tech Stack:** DuckDB-WASM, Apache Parquet, React
 * **Status:** Active Development | [View Live Dashboard](link-to-pages-url)
 
