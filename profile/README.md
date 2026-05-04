@@ -1,7 +1,7 @@
 # Opensynthia 
 **Movement, Epidemiology, and Systems for Health**
 
-Opensynthia is an open-source engineering initiative dedicated to the rigorous synthesis of complex health data and scientific literature. The organization bridges the intersection of wearable technology, epidemiology, and artificial intelligence to advance digital health research.
+Opensynthia is an open-source engineering initiative dedicated to the synthesis of complex health data and scientific literature. It bridges the intersection of wearable technology, epidemiology, and artificial intelligence to advance digital health research.
 
 High-performance, accessible infrastructure is developed to support the broader academic community. These computational tools range from large language model (LLM) interfaces designed to streamline scholarly discovery, to browser-based data pipelines (DuckDB-WASM, Apache Arrow) for visualizing high-resolution data derived from wearable technology.
 
