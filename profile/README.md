@@ -1,5 +1,5 @@
 # Opensynthia 
-**Movement, Epidemiology, and Systems for Health**
+**Movement, Epidemiology, and Digital Systems for Health**
 
 Opensynthia is an open-source engineering initiative dedicated to the synthesis of complex health data and scientific literature. It bridges the intersection of wearable technology, epidemiology, and artificial intelligence to advance digital health research.
 
